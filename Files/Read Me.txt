@@ -1,0 +1,24 @@
+This is a project written by a student of the University of Nigeria Nsukka
+
+Student Name:
+Reg. Number:
+Department: 
+Faculty:
+Project Topic: UNN WOMEN IN SCIENCE FORUM
+
+Requirements For Installation 
+
+(PHP 
+Local Server (Apache)
+MySQL) => Xampp
+
+Steps for Installation
+
+1: Unzip file "project.zip"
+2: Move folder to C:\xampp\htdocs
+3: Run Apache and MySQL
+4: Create a database with name "unnwsf"
+5: Import Database table (locate file at C:\xampp\htdocs\project\Files\unnwsf.sql)
+6: Open your browser and visit "localhost/projects"
+
+Your Project Is Ready To Use
